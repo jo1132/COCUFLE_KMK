@@ -1,0 +1,14 @@
+{
+  "name": "qmk_distro_msys",
+  "description": "The one-click installer for MSYS2 + QMK CLI",
+  "repository": "git@github.com:qmk/qmk_distro_msys.git",
+  "author": "zvecr <git@zvecr.com>",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "vitepress": "^1.2.0"
+  },
+  "scripts": {
+    "serve": "vitepress dev  --host 0.0.0.0 docs",
+    "build": "vitepress build docs"
+  }
+}
