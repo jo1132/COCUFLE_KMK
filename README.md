@@ -7,21 +7,13 @@ This project especially provides firmware support for users who purchased the **
 
 ## 📂 Project Structure
 
-### 🔹 SofleKeyboard-master
-- Based on the original Sofle design by **[josefadamcik](https://github.com/josefadamcik/SofleKeyboard)**.
-- Contains the reference design files for the Sofle keyboard.
-
-### 🔹 Sofle-Pico-main
-- Derived from **[JellyTitan’s Sofle-Pico](https://github.com/JellyTitan/Sofle-Pico)**.
-- Provides resources tailored for Pico-based builds.
-
 ### 🔹 Firmware
 - Based on **[KMK Firmware](https://github.com/KMKfw/kmk_firmware)**.
 - Modified to run on the **RP2350-based Pico 2**.
 - Enables a fully functional Sofle experience without QMK dependency.
 
 ### 🔹 Case
-- Adapted from the **SofleKeyboard-master** 3D-printable case files.
+- Adapted from the original Sofle 3D-printable case files.
 - Enhanced with additional side walls for improved durability and aesthetics.
 
 ---
